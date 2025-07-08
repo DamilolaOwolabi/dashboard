@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# Data, models, and outputs (ignore all, unless you want to track specific files)
+data/
+models/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Allow tracking of requirements.txt, dashboard/, src/, and README.md
+requirements.txt
+dashboard/
+src/
+README.md 
