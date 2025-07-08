@@ -22,3 +22,7 @@ Thumbs.db
 # VSCode and IDE settings
 .vscode/
 .idea/
+
+# Large files
+ERCOT Backcasted load profiles 2014 to 2025/
+ERCOT_OperationalWindProfiles_1980-2023_StandardAvailability_CST_UTC-6.csv

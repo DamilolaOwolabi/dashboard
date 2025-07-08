@@ -1,2 +1,3 @@
-average_reward,grid_balance_error,storage_utilization,curtailment_reduction,peak_load_coverage,system_uptime
--34.98666666816241,7.0,0.30000000000000004,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:78f7b0788fd3995585001f21ad96b072775337cbed8df09d9f06926c97b45e64
+size 158
