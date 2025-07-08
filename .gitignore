@@ -23,9 +23,3 @@ Thumbs.db
 # VSCode and IDE settings
 .vscode/
 .idea/
-
-# Allow tracking of requirements.txt, dashboard/, src/, and README.md
-requirements.txt
-dashboard/
-src/
-README.md 
